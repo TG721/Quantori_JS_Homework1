@@ -22,7 +22,7 @@ The homeworks for Quantori JavaScript course.
       <td colspan="3">Homework 5-10</td>
    </tr>
    <tr>
-      <td colspan="3"><img src="https://user-images.githubusercontent.com/85778941/234003119-afb2d0bc-0e36-4478-aaa6-36531e2419b9.png"></td>
+      <td colspan="3"><img src="https://github.com/TG721/Quantori_JS_Homeworks/assets/85778941/6cf09f74-0e28-48dc-9260-2ff192ba1db4"></td>  
    </tr>
 </table>
 

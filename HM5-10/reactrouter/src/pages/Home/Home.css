@@ -1,0 +1,41 @@
+.inLineWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    height: 100%;
+  }
+  
+  .inLineWrapper > :last-child {
+    margin: auto;
+  
+  }
+
+  .tagAndTasksWrapper {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .dropdown {
+    margin-left: 200px;
+    margin-top: 15px;
+  }
+
+  @media only screen and (max-width: 888px) {
+    .dropdown {
+      margin-left: 40px;
+    }
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .dropdown {
+      margin-left: 20px;
+    }
+  }
+
+  @media only screen and (max-width: 668px) {
+    .dropdown {
+      margin-left: 0px;
+    }
+  }
+

@@ -1,0 +1,47 @@
+.tag {
+    padding: 4px;
+    font-size: 12px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 5%;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin-top: 1;
+}
+
+.health {
+    color: #0053CF;
+    background-color: #3C86F44F;
+}
+
+.work {
+    color: #9747FF;
+    background-color: #E8D7FF;
+}
+
+.homeTag {
+    color: #639462;
+    background-color: #E2F6E2;
+}
+
+.other {
+    color: #EA8C00;
+    background-color: #FFECC7;
+}
+
+
+.isClickable:hover {
+    cursor: pointer;
+}
+
+.isNotClickable:hover {
+    cursor: default;
+}
+
+.imgButton:hover {
+    cursor: pointer;
+}
+
+/* .selected {
+    border: 1.5px dashed black;
+} */

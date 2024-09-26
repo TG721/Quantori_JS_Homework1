@@ -1,0 +1,33 @@
+.button {
+    height: 52px;
+    font-size: 16px;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 52px;
+    margin-left: 5%;
+    display: inline-block;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.imgButton:hover {
+    cursor: pointer;
+}
+
+.newTaskButton {
+    background-color: #3C86F426;
+    color: #0053CF;
+    width: 15%;
+}
+
+.newTaskButton:hover {
+    background-color: #3C86F459;
+}
+
+@media only screen and (max-width: 570px) {
+    .button {
+      font-size: 12px;
+    }
+  }
